@@ -1,0 +1,13 @@
+{
+  "config": {
+    "start_pool": "ftbdungeons:stone/initiators/intersection",
+    "size": 5,
+    "min_structure_distance": 250,
+    "min_height": -60,
+    "max_height": 60
+  },
+  "biomes": "minecraft:plains",
+  "adapt_noise": false,
+  "spawn_overrides": {},
+  "type": "ftbsbc:dungeon_structure_feature"
+}
